@@ -1,22 +1,9 @@
 # Parking Sensor
 
-This Arduino sketch implements a parking sensor using an ultrasonic sensor. It measures the distance to an object and activates a buzzer to indicate the proximity.
+## Documentation
 
-## Installation:
+For further information and detailed documentation, please refer to the [Documentation](https://docs.arduinodenis.com/github/resources-arduino/arduino-projects/project-7-arduino).
 
-1. Connect an ultrasonic sensor to the trigger and echo ports defined in the sketch.
-2. Connect a buzzer to the buzzer port defined in the sketch.
-3. Upload the sketch to your Arduino board.
+## License
 
-## Usage:
-
-The sensor measures the distance to an object and activates the buzzer based on the distance. It also displays the distance on the serial monitor.
-
-## Version 1.0 - 2024-02-18
-
-- Initial release.
-- Implemented basic functionality to measure distance and activate buzzer.
-
-## License:
-
-This project is licensed under the [MIT License](LICENSE).
+This script is released under the [MIT License](LICENSE).
